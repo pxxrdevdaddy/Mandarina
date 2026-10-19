@@ -1,5 +1,8 @@
 # HOW TO INSTALL
-
+# XCODE INSTALLED IS REQUIRED
+```bash
+xcode-select --install
+```
 ## Download the latest RELEASE (5.0) 
 [Latest release](https://github.com/pxxrdevdaddy/Mandarina/releases/tag/v5.0)
 
