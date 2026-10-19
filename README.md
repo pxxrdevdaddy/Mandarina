@@ -19,3 +19,11 @@ execute
 ```
  in terminal
 ## Drag Mandarina.app to the application folder and enjoy!
+
+## HOW TO USE
+Drag any file and press Command/Control/Shift to open menus.
+
+## Showcase
+<img width="531" height="473" alt="Captura de pantalla 2026-10-19 a las 21 18 42" src="https://github.com/user-attachments/assets/fa179edd-34f2-402d-bee3-1e8bdaad5efd" />
+<img width="483" height="499" alt="Captura de pantalla 2026-10-19 a las 21 18 36" src="https://github.com/user-attachments/assets/a55850b9-c665-4197-b75f-9d6b8ffa0855" />
+<img width="462" height="473" alt="Captura de pantalla 2026-10-19 a las 21 18 30" src="https://github.com/user-attachments/assets/5587b7f8-115b-4cbe-af8e-56b50223d8cd" />
