@@ -10,7 +10,9 @@ xcode-select --install
 
 cd (DRAG YOUR MANDARINA FOLDER FROM FINDER) and press enter
 
-<img width="1528" height="1890" alt="Captura de pantalla 2026-10-19 a las 0 47 32 censurado anotado" src="https://github.com/user-attachments/assets/b2976ccc-a3aa-4a9d-bb03-90c1d2b078f2" />
+
+<img width="1092" height="1376" alt="Captura de pantalla 2026-10-19 a las 21 42 45 anotado" src="https://github.com/user-attachments/assets/f2b8826e-04da-4dd8-8ea1-748da12b7d28" />
+
 
 ## Once completed
 execute 
@@ -18,6 +20,9 @@ execute
 ./build.sh
 ```
  in terminal
+
+ <img width="1272" height="72" alt="Captura de pantalla 2026-10-19 a las 21 38 10 censurado" src="https://github.com/user-attachments/assets/e326388f-49a2-4cec-b789-7f249a86131f" />
+
 ## Drag Mandarina.app to the application folder and enjoy!
 
 ## HOW TO USE
